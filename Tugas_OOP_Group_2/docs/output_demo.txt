@@ -1,0 +1,262 @@
+=======================================================
+🛍️ SELAMAT DATANG DI TOKO ONLINE KAMPUS
+=======================================================
+
+--- MENAMBAHKAN PRODUK ---
+✅ Produk Laptop Gaming ditambahkan
+✅ Produk Earbuds Basic ditambahkan
+✅ Produk Jaket Musim Dingin ditambahkan
+✅ Produk Kaos Polos ditambahkan
+✅ Produk Beras Organik 5kg ditambahkan
+✅ Produk Mie Instan ditambahkan
+❌ Produk dengan ID F002 sudah ada
+
+--- REGISTRASI USER ---
+✅ User budi berhasil didaftarkan
+✅ User siti berhasil didaftarkan
+❌ Username budi sudah digunakan
+
+--- SEMUA PRODUK ---
+=======================================================
+📦 SEMUA PRODUK
+=======================================================
+Total: 6 produk
+-------------------------------------------------------
+==================================================
+📦 Elektronik - Laptop Gaming
+ID        : E001
+Harga     : Rp 15.000.000
+Diskon    : Rp 3.000.000
+Harga Akhir: Rp 12.000.000
+Stok      : 10
+==================================================
+Merek     : ASUS
+Garansi   : 36 bulan
+Premium   : ✅ Ya
+==================================================
+==================================================
+📦 Elektronik - Earbuds Basic
+ID        : E002
+Harga     : Rp 250.000
+Diskon    : Rp 12.500
+Harga Akhir: Rp 237.500
+Stok      : 25
+==================================================
+Merek     : Xiaomi
+Garansi   : 12 bulan
+Premium   : ❌ Tidak
+==================================================
+==================================================
+📦 Pakaian - Jaket Musim Dingin
+ID        : C001
+Harga     : Rp 400.000
+Diskon    : Rp 120.000
+Harga Akhir: Rp 280.000
+Stok      : 20
+==================================================
+Ukuran    : XL
+Bahan     : Wol
+Seasonal  : ✅ Ya
+==================================================
+==================================================
+📦 Pakaian - Kaos Polos
+ID        : C002
+Harga     : Rp 80.000
+Diskon    : Rp 8.000
+Harga Akhir: Rp 72.000
+Stok      : 50
+==================================================
+Ukuran    : M
+Bahan     : Katun
+Seasonal  : ❌ Tidak
+==================================================
+==================================================
+📦 Makanan - Beras Organik 5kg
+ID        : F001
+Harga     : Rp 90.000
+Diskon    : Rp 22.500
+Harga Akhir: Rp 67.500
+Stok      : 30
+==================================================
+Berat     : 5000.0 gram
+Kadaluarsa: 2027-03-01
+Organik   : ✅ Ya
+==================================================
+==================================================
+📦 Makanan - Mie Instan
+ID        : F002
+Harga     : Rp 3.500
+Diskon    : Rp 175
+Harga Akhir: Rp 3.325
+Stok      : 200
+==================================================
+Berat     : 80.0 gram
+Kadaluarsa: 2027-01-15
+Organik   : ❌ Tidak
+==================================================
+
+--- BUDI BELANJA ---
+✅ Laptop Gaming x1 ditambahkan ke keranjang
+✅ Jaket Musim Dingin x2 ditambahkan ke keranjang
+❌ Jumlah harus lebih dari 0
+❌ Stok Earbuds Basic tidak mencukupi (tersedia: 25)
+
+--- KERANJANG BUDI ---
+==================================================
+🛒 KERANJANG BELANJA - budi
+==================================================
+Laptop Gaming x1 = Rp 12.000.000
+   (Diskon: Rp 3.000.000)
+Jaket Musim Dingin x2 = Rp 560.000
+   (Diskon: Rp 240.000)
+--------------------------------------------------
+Total Diskon : Rp 3.240.000
+Total Belanja: Rp 12.560.000
+==================================================
+
+--- CHECKOUT BUDI (percobaan 1: CVV salah) ---
+💳 Memproses pembayaran dengan Kartu Kredit...
+   Biaya admin: Rp 251.200
+❌ Pembayaran gagal: CVV tidak valid (kode 402)
+
+--- CHECKOUT BUDI (percobaan 2: kartu benar) ---
+💳 Memproses pembayaran dengan Kartu Kredit...
+   Biaya admin: Rp 251.200
+✅ Pembayaran berhasil! ID: CC-1791364506805
+✅ Status order ORD-1791364506806-1 diubah menjadi: ✅ Dibayar
+✅ Order ORD-1791364506806-1 berhasil dibuat
+=======================================================
+📋 DETAIL ORDER
+=======================================================
+ID Order    : ORD-1791364506806-1
+Pelanggan   : budi
+Tanggal     : 2026-10-07T09:15:06
+Status      : ✅ Dibayar
+-------------------------------------------------------
+Items:
+   Laptop Gaming x1 = Rp 12.000.000
+   Jaket Musim Dingin x2 = Rp 560.000
+-------------------------------------------------------
+Total Diskon: Rp 3.240.000
+Total Harga : Rp 12.560.000
+=======================================================
+
+--- ORDER BUDI ---
+==================================================
+📋 RIWAYAT ORDER - budi
+==================================================
+1. Order ORD-1791364506806-1 - ✅ Dibayar
+   Total: Rp 12.560.000
+Total Belanja: Rp 12.560.000
+==================================================
+
+--- SITI BELANJA ---
+✅ Beras Organik 5kg x3 ditambahkan ke keranjang
+✅ Kaos Polos x2 ditambahkan ke keranjang
+✅ Mie Instan x10 ditambahkan ke keranjang
+✅ Kaos Polos dihapus dari keranjang
+==================================================
+🛒 KERANJANG BELANJA - siti
+==================================================
+Beras Organik 5kg x3 = Rp 202.500
+   (Diskon: Rp 67.500)
+Mie Instan x10 = Rp 33.250
+   (Diskon: Rp 1.750)
+--------------------------------------------------
+Total Diskon : Rp 69.250
+Total Belanja: Rp 235.750
+==================================================
+
+--- CHECKOUT SITI (QRIS) ---
+💳 Memproses pembayaran dengan QRIS...
+   Biaya admin: Rp 1.178
+✅ Pembayaran berhasil! ID: QR-1791364506855
+✅ Status order ORD-1791364506855-2 diubah menjadi: ✅ Dibayar
+✅ Order ORD-1791364506855-2 berhasil dibuat
+=======================================================
+📋 DETAIL ORDER
+=======================================================
+ID Order    : ORD-1791364506855-2
+Pelanggan   : siti
+Tanggal     : 2026-10-07T09:15:06
+Status      : ✅ Dibayar
+-------------------------------------------------------
+Items:
+   Beras Organik 5kg x3 = Rp 202.500
+   Mie Instan x10 = Rp 33.250
+-------------------------------------------------------
+Total Diskon: Rp 69.250
+Total Harga : Rp 235.750
+=======================================================
+
+--- SITI BELANJA LAGI (Transfer Bank) ---
+✅ Earbuds Basic x1 ditambahkan ke keranjang
+💳 Memproses pembayaran dengan Transfer Bank (BCA)...
+   Biaya admin: Rp 5.000
+✅ Pembayaran berhasil! ID: BT-1791364506858
+✅ Status order ORD-1791364506858-3 diubah menjadi: ✅ Dibayar
+✅ Order ORD-1791364506858-3 berhasil dibuat
+
+--- UPDATE STATUS ORDER ---
+✅ Status order ORD-1791364506806-1 diubah menjadi: 🚚 Dikirim
+✅ Status order ORD-1791364506806-1 diubah menjadi: 📦 Diterima
+❌ Status sudah final, tidak bisa diubah
+✅ Status order ORD-1791364506858-3 diubah menjadi: ❌ Dibatalkan: Pelanggan berubah pikiran
+
+--- LAPORAN PENJUALAN ---
+=======================================================
+📊 LAPORAN PENJUALAN - Toko Online Kampus
+=======================================================
+Total Order   : 3
+Total Revenue : Rp 12.795.750
+-------------------------------------------------------
+1. ORD-1791364506806-1 - budi
+   Status: 📦 Diterima
+   Total: Rp 12.560.000
+2. ORD-1791364506855-2 - siti
+   Status: ✅ Dibayar
+   Total: Rp 235.750
+3. ORD-1791364506858-3 - siti
+   Status: ❌ Dibatalkan: Pelanggan berubah pikiran
+   Total: Rp 237.500
+=======================================================
+
+--- DEMO POLIMORFISME ---
+Elektronik Laptop Gaming        diskon Rp 3.000.000
+Elektronik Earbuds Basic        diskon Rp 12.500
+Pakaian    Jaket Musim Dingin   diskon Rp 120.000
+Pakaian    Kaos Polos           diskon Rp 8.000
+Makanan    Beras Organik 5kg    diskon Rp 22.500
+Makanan    Mie Instan           diskon Rp 175
+
+Laptop Gaming: Merek ASUS, garansi 36 bln
+Earbuds Basic: Merek Xiaomi, garansi 12 bln
+Jaket Musim Dingin: Ukuran XL, bahan Wol
+Kaos Polos: Ukuran M, bahan Katun
+Beras Organik 5kg: Berat 5000.0 g, kadaluarsa 2027-03-01
+Mie Instan: Berat 80.0 g, kadaluarsa 2027-01-15
+
+--- DEMO SEALED CLASS ---
+⏳ Menunggu Pembayaran            final=false -> Tunggu pembayaran pelanggan
+✅ Dibayar                        final=false -> Siapkan barang untuk dikirim
+🚚 Dikirim                       final=false -> Pantau pengiriman
+📦 Diterima                      final=true  -> Selesai
+❌ Dibatalkan: Stok habis         final=true  -> Alasan batal: Stok habis
+Sukses, id=TX-1
+Gagal: Saldo kurang (500)
+Pending
+
+--- DEMO ENKAPSULASI ---
+Harga laptop (lewat getter publik): Rp 15.000.000
+Password budi benar? true
+Password budi salah? false
+Validasi harga negatif ditolak? true
+
+--- DEMO SMART CASTING ---
+Smart cast otomatis: brand = ASUS
+E001 sebagai FoodProduct? null
+E001 sebagai ElectronicProduct? Laptop Gaming (premium=true)
+
+=======================================================
+✅ DEMO SELESAI
+=======================================================
