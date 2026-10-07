@@ -34,9 +34,9 @@ class ClothingProduct(
     /** Menampilkan info dasar ditambah ukuran, bahan, dan status seasonal. */
     override fun displayInfo() {
         super.displayInfo()
-        println("Ukuran    : $size")
-        println("Bahan     : $material")
-        println("Seasonal  : ${if (isSeasonal) "✅ Ya" else "❌ Tidak"}")
+        println("Ukuran      : $size")
+        println("Bahan       : $material")
+        println("Seasonal    : ${if (isSeasonal) "✅ Ya" else "❌ Tidak"}")
         println("=".repeat(50))
     }
 }

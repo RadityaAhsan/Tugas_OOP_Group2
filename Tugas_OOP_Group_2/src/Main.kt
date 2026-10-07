@@ -39,7 +39,7 @@ fun main() {
     system.registerUser("budi", "lain@kampus.ac.id", "x") // duplikat -> ditolak
 
     // 4. Tampilkan semua produk
-    section("SEMUA PRODUK")
+    println("")
     system.displayAllProducts()
 
     // 5-8. User 1 (budi): belanja, keranjang, checkout kartu kredit, tampilkan order
@@ -88,7 +88,7 @@ fun main() {
     orderSiti2?.updateStatus(OrderStatus.Cancelled("Pelanggan berubah pikiran"))
 
     // 10. Laporan penjualan
-    section("LAPORAN PENJUALAN")
+    println("")
     system.displaySalesReport()
 
     // 11. Polimorfisme
@@ -96,7 +96,7 @@ fun main() {
     val products: List<Product> = system.getProducts() // List<Product> berisi 3 subclass berbeda
     products.forEach { p ->
         // calculateDiscount() dipanggil lewat referensi Product, perilaku mengikuti tipe aslinya
-        println("${p.getCategory().padEnd(10)} ${p.name.padEnd(20)} diskon Rp ${CurrencyFormatter.format(p.calculateDiscount())}")
+        println("${p.getCategory().padEnd(10)} - ${p.name.padEnd(20)} diskon Rp ${CurrencyFormatter.format(p.calculateDiscount())}")
     }
     println()
     products.forEach { p ->

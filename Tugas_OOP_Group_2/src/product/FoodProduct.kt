@@ -33,9 +33,9 @@ class FoodProduct(
     /** Menampilkan info dasar ditambah berat, kadaluarsa, dan status organik. */
     override fun displayInfo() {
         super.displayInfo()
-        println("Berat     : $weight gram")
-        println("Kadaluarsa: $expiryDate")
-        println("Organik   : ${if (isOrganic) "✅ Ya" else "❌ Tidak"}")
+        println("Berat       : $weight gram")
+        println("Kadaluarsa  : $expiryDate")
+        println("Organik     : ${if (isOrganic) "✅ Ya" else "❌ Tidak"}")
         println("=".repeat(50))
     }
 }

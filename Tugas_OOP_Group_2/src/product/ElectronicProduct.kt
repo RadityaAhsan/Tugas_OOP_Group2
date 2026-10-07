@@ -34,9 +34,9 @@ class ElectronicProduct(
     /** Menampilkan info dasar ditambah merek, garansi, dan status premium. */
     override fun displayInfo() {
         super.displayInfo()
-        println("Merek     : $brand")
-        println("Garansi   : $warrantyMonths bulan")
-        println("Premium   : ${if (isPremium) "✅ Ya" else "❌ Tidak"}")
+        println("Merek       : $brand")
+        println("Garansi     : $warrantyMonths bulan")
+        println("Premium     : ${if (isPremium) "✅ Ya" else "❌ Tidak"}")
         println("=".repeat(50))
     }
 }
