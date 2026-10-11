@@ -83,11 +83,11 @@ abstract class Product(
     open fun displayInfo() {
         println("=".repeat(50))
         println("📦 ${getCategory()} - $name")
-        println("ID        : $id")
-        println("Harga     : $formattedPrice")
-        println("Diskon    : Rp ${formatRupiah(calculateDiscount())}")
-        println("Harga Akhir: Rp ${formatRupiah(getDiscountedPrice())}")
-        println("Stok      : $stock")
+        println("ID          : $id")
+        println("Harga       : $formattedPrice")
+        println("Diskon      : Rp ${formatRupiah(calculateDiscount())}")
+        println("Harga Akhir : Rp ${formatRupiah(getDiscountedPrice())}")
+        println("Stok        : $stock")
         println("=".repeat(50))
     }
 
